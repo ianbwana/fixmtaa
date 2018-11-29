@@ -1,0 +1,41 @@
+darkness,electricity,no,no,yes
+outage,electricity,no,yes,yes
+loss,electricity,yes,yes,yes
+lost,electricity,yes,yes,yes
+interruption,electricity,yes,yes,yes
+out,electricity,no,yes,no
+blackout,electricity,no,yes,yes
+black out,electricity,no,yes,yes
+blew,electricity,no,yes,no
+off,electricity,no,yes,no
+on off,electricity,no,no,no
+on of,electricty,no,no,no
+dim,electricity,yes,yes,no
+blown,electricity,yes,yes,no
+failure,electricity,no,yes,no
+cut,electricity,no,yes,no
+fluctuation,electricity,no,yes,yes
+fluctuations,electricity,no,yes,yes
+out,electricity,no,yes,no
+flickering,electricity,yes,yes,yes
+inconsistent,electricity,yes,yes,no
+burst,water,yes,yes,yes
+leak,water,yes,yes,yes
+leaked,water,yes,yes,no
+leakage,water,yes,yes,yes
+leakages,water,no,yes,yes
+dry,water,yes,yes,yes
+shortage,water,yes,yes,yes
+interruption,water,yes,yes,yes
+sewage,water,no,no,yes
+down,internet,no,yes,no
+interruption,internet,yes,yes,yes
+slow,internet,yes,yes,yes
+slow speed,internet,yes,yes,yes
+slow speeds,internet,yes,yes,yes
+on off,internet,no,no,no
+downtime,internet,no,yes,yes
+off,internet,no,yes,no
+offline,internet,no,yes,yes
+unstable,internet,yes,yes,yes
+lost,internet,yes,yes,yes

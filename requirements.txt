@@ -1,0 +1,10 @@
+Django==1.9.5
+celery==3.1.23
+twitter==1.17.1
+tweepy==3.5.0
+nltk==3.0
+numpy==1.11.0
+matplotlib==1.5.0
+djangorestframework == 3.3.2
+pycassa==1.11.1
+cassandra-driver==3.3.0
